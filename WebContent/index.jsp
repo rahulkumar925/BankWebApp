@@ -8,7 +8,7 @@
 </head>
 <body>
 <div align="center">
-<form action="ViewAccount.jsp">
+<form action="viewAccount.app">
 <input type="submit" value="View All Accounts"><br><br>
 </form>
 <form action="Withdraw.jsp">
@@ -18,7 +18,7 @@
 <input type="submit" value="Deposit"><br><br>
 </form>
 <form action="FundTransfer.jsp">
-<input type="submit" value="Withdraw"><br><br>
+<input type="submit" value="Fund Transfer"><br><br>
 </form>
 </div>
 </body>

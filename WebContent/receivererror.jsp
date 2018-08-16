@@ -8,7 +8,7 @@
 </head>
 <body>
 <div align="center">
-<h2>Account Number does not exist</h2>
+<h2>Receiver Account Number does not exist</h2>
 </div>
 </body>
 </html>
